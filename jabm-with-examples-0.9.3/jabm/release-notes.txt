@@ -1,0 +1,10 @@
+JABM version 0.9.1
+------------------
+
+Main changes since the last release
+-----------------------------------
+
+- migrated to Apache Maven for dependency management
+- migrated to Spring framework 4.1.1
+
+ 

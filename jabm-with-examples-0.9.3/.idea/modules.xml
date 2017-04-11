@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jabm/jabm.iml" filepath="$PROJECT_DIR$/jabm/jabm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jabm-examples/jabm-examples.iml" filepath="$PROJECT_DIR$/jabm-examples/jabm-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jabm-with-examples.iml" filepath="$PROJECT_DIR$/jabm-with-examples.iml" />
+    </modules>
+  </component>
+</project>
